@@ -1,5 +1,5 @@
-## Python Guess the Number
-# Table of Contents
+# Python Guess the Number
+## Table of Contents
 * [General info](#general-info)
 * [Features](#features)
 * [Setup](#setup)
