@@ -6,6 +6,7 @@
 
 ## General info
 A simple Python number guessing game from Dr. Angela Yu's 100 Days of Python.
+
 ![Guess the Number](https://github.com/NathanRomasanta/Python-Guess-the-Number/assets/102335871/a1d1b169-930e-4718-91b6-4f469c9da90e)
 
 ## Features
