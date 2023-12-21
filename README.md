@@ -1,7 +1,7 @@
 ## Python Guess the Number
 # Table of Contents
 * [General info](#general-info)
-* [Features](#technologies)
+* [Features](#features)
 * [Setup](#setup)
 
 ## General info
